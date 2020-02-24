@@ -1,10 +1,10 @@
 Simplest (well, **very** simple) Spring Boot REST application featuring Swagger and H2 database.
 Done after firs encounter with Spring JPA just for fun, do not expect anything fancy.
 
-Swagger UI: [http://localhost:8080/swagger-ui]
+Swagger UI: [http://localhost:8080/swagger-ui](http://localhost:8080/swagger-ui)
 
-H2:
-* UI: [http://localhost:8080/h2-console]
+H2 database:
+* UI: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 * URL: jdbc:h2:mem:testdb
 * credentials:
     * username sa
